@@ -45,3 +45,7 @@ Vega: Sensitivity to changes in volatility.
 Theta: Sensitivity to the passage of time (time decay).
 Rho: Sensitivity to changes in the risk-free interest rate.
 
+### Future Extensions and Ideas
+1. Custom Curve building for options pricing
+2. Using blackschoels or binomials for options pricing
+3. Historical Price charting
