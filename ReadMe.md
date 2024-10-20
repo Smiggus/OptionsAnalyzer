@@ -49,3 +49,4 @@ Rho: Sensitivity to changes in the risk-free interest rate.
 1. Custom Curve building for options pricing
 2. Using blackschoels or binomials for options pricing
 3. Historical Price charting
+4. Use of ib_async to pull optiosn chain and historicals
